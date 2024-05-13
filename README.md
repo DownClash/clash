@@ -19,8 +19,8 @@ Clash 软件的主要有以下特点和功能：
 
 注意以下官网由 Clash for Windows 删除原因蔓延至整个软件社区，导致所有官网已被移除，无法访问。需要下载的用户可以通过第三方的备份下载获取资源，[Clash 官方备份下载汇总](https://clashxhub.com/clash-backup-download/)。
 
-~~ - [Clash for Windows 官网](https://github.com/Fndroid/clash_for_windows_pkg/releases)：作为 Windows 系统中最受欢迎的翻墙代理客户端，官方版本暂不支持中文界面，但可通过第三方汉化版本实现。~~ 
-~~ - [ClashX for Mac 官网](https://github.com/yichengchen/clashX/releases)：Mac平台上最知名的 Clash 客户端是 ClashX，同时也有另一款由 Clash for Windows 的开发者推出的 Mac 版本。~~ 
-~~ - [Clash for Android 官网](https://github.com/Kr328/ClashForAndroid/releases)：在安卓系统上，Clash 的客户端名称是 Clash for Android，支持便捷的一键导入或复制订阅链接导入方式。~~ 
-~~ - Clash for iOS 官网：iOS平台上需要使用非中国区的AppID登录苹果商店，付费下载。目前有多个软件支持。较为常用的包括[Stash](https://apps.apple.com/app/stash/id1596063349))、[ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118)、[Quantumult（X）](https://apps.apple.com/us/app/quantumult-x/id1443988620)。等等。配置方法大同小异,具体怎么选择因人而异。~~ 
+~~- [Clash for Windows 官网](https://github.com/Fndroid/clash_for_windows_pkg/releases)：作为 Windows 系统中最受欢迎的翻墙代理客户端，官方版本暂不支持中文界面，但可通过第三方汉化版本实现。~~ 
+~~- [ClashX for Mac 官网](https://github.com/yichengchen/clashX/releases)：Mac平台上最知名的 Clash 客户端是 ClashX，同时也有另一款由 Clash for Windows 的开发者推出的 Mac 版本。~~ 
+~~- [Clash for Android 官网](https://github.com/Kr328/ClashForAndroid/releases)：在安卓系统上，Clash 的客户端名称是 Clash for Android，支持便捷的一键导入或复制订阅链接导入方式。~~ 
+~~- Clash for iOS 官网：iOS平台上需要使用非中国区的AppID登录苹果商店，付费下载。目前有多个软件支持。较为常用的包括[Stash](https://apps.apple.com/app/stash/id1596063349))、[ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118)、[Quantumult（X）](https://apps.apple.com/us/app/quantumult-x/id1443988620)。等等。配置方法大同小异,具体怎么选择因人而异。~~ 
 
