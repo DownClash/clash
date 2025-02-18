@@ -9,34 +9,28 @@ FlClash下载地址：[https://github.com/chen08209/FlClash/releases](https://gi
 FlClash使用教程：[https://clashxhub.com/fclash/](https://clashxhub.com/fclash/)
 
 ### Clash Verge Rev
-Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-Clash Verge Rev使用教程：[https://clashxhub.com/clash-verge-rev/](https://clashxhub.com/clash-verge-rev/)
+Clash Verge Rev下载&使用教程：[https://clashxhub.com/clash-verge-rev/](https://clashxhub.com/clash-verge-rev/)
 
 ### Clash Verge （停更）
-Clash Verge下载地址：[https://github.com/clashdownload/Clash_Verge](https://github.com/clashdownload/Clash_Verge)
 
-Clash Verge使用教程：[https://clashxhub.com/clash-verge/](https://clashxhub.com/clash-verge/)
+Clash Verge下载&使用教程：[https://clashxhub.com/clash-verge/](https://clashxhub.com/clash-verge/)
 
 ### Clash for Windows （停更）
-Clash for Windows下载地址：[https://github.com/clashdownload/Clash_for_Windows](https://github.com/clashdownload/Clash_for_Windows)
 
-Clash for Windows使用教程：[https://clash4windows.com/](https://clash4windows.com/)
+Clash for Windows下载&使用教程：[https://clash4windows.com/](https://clash4windows.com/)
 
 ### ClashX （停更）
-ClashX下载地址：[https://github.com/clashdownload/ClashX](https://github.com/clashdownload/ClashX)
 
-ClashX使用教程：[https://clash4mac.com](https://clash4mac.com/)
+ClashX下载&使用教程：[https://clash4mac.com](https://clash4mac.com/)
 
 ### ClashX Pro （停更）
-ClashX Pro下载地址：[https://github.com/clashdownload/ClashX_Pro](https://github.com/clashdownload/ClashX_Pro)
 
-ClashX Pro使用教程：[https://clashxhub.com/clashx-pro/](https://clashxhub.com/clashx-pro/)
+ClashX Pro下载&使用教程：[https://clashxhub.com/clashx-pro/](https://clashxhub.com/clashx-pro/)
 
 ### Clash for Android （停更）
-Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Android](https://github.com/clashdownload/Clash_for_Android)
 
-Clash for Android使用教程：[https://clash4android.com/](https://clash4android.com/)
+Clash for Android下载&使用教程：[https://clash4android.com/](https://clash4android.com/)
 
 ## Clash节点推荐 (2025-02)
 
