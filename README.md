@@ -1,26 +1,75 @@
+# Clash官网导航(2025最新)
 
-# Clash 系列软件备份下载
+## Clash客户端备份
 
-## Clash介绍
-Clash 是一款由 Go 语言开发的智能代理工具，它能根据预设规则智能分流网络流量至不同的代理线路，为用户提供高效的代理服务。也是目前市面上翻墙机场使用适配最广的代理软件之一。Clash 的图形化用户界面软件由不同的开发者在各个操作系统上进行维护，因此在 Windows、macOS、Android 和 iOS 等平台上都有不同的名称和略微不同的用户界面和使用习惯。
 
-Clash 软件的主要有以下特点和功能：
+### FlClash
+FlClash下载地址：[https://github.com/chen08209/FlClash/releases](https://github.com/chen08209/FlClash/releases)
 
-- 多协议支持：Clash 支持多种代理协议，包括 Shadowsocks、VMess、Trojan、Socks5 等，用户可以根据需求选择合适的协议进行代理。
-- 多平台支持：Clash 可以在多种操作系统上运行，包括 Windows、macOS、Linux 和 Android 等，因此用户可以在不同设备上使用 Clash 来实现代理需求。
-- 灵活的规则配置：Clash 允许用户通过自定义规则文件来控制网络流量的转发行为，用户可以根据需要灵活配置规则，实现精确的流量控制和分流。
-- 图形化界面：除了提供命令行界面外，Clash 还提供了图形化界面，使用户可以通过直观的操作界面来配置和管理代理规则，方便使用和管理。
-- 代理组支持：Clash 支持代理组的概念，用户可以将多个代理服务器组合成一个代理组，并根据策略选择不同的代理服务器进行流量转发，实现负载均衡和故障切换。
-- 丰富的插件生态：Clash 生态系统丰富，提供了大量的插件和扩展，用户可以根据需要安装各种插件来扩展 Clash 的功能，例如广告过滤、自动更新规则等。
+FlClash使用教程：[https://clashxhub.com/fclash/](https://clashxhub.com/fclash/)
 
-## Clash 客户端下载官网
+### Clash Verge Rev
+Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
-各个 Clash 客户端官方地址如下：
+Clash Verge Rev使用教程：[https://clashxhub.com/clash-verge-rev/](https://clashxhub.com/clash-verge-rev/)
 
-注意以下官网由 Clash for Windows 删除原因蔓延至整个软件社区，导致所有官网已被移除，无法访问。需要下载的用户可以通过第三方的备份下载获取资源，[Clash 官方备份下载汇总](https://clashxhub.com/clash-backup-download/)。
+### Clash Verge （停更）
+Clash Verge下载地址：[https://github.com/clashdownload/Clash_Verge](https://github.com/clashdownload/Clash_Verge)
 
-~~- [Clash for Windows 官网](https://github.com/Fndroid/clash_for_windows_pkg/releases)：作为 Windows 系统中最受欢迎的翻墙代理客户端，官方版本暂不支持中文界面，但可通过第三方汉化版本实现。~~ 
-~~- [ClashX for Mac 官网](https://github.com/yichengchen/clashX/releases)：Mac平台上最知名的 Clash 客户端是 ClashX，同时也有另一款由 Clash for Windows 的开发者推出的 Mac 版本。~~ 
-~~- [Clash for Android 官网](https://github.com/Kr328/ClashForAndroid/releases)：在安卓系统上，Clash 的客户端名称是 Clash for Android，支持便捷的一键导入或复制订阅链接导入方式。~~ 
-~~- Clash for iOS 官网：iOS平台上需要使用非中国区的AppID登录苹果商店，付费下载。目前有多个软件支持。较为常用的包括[Stash](https://apps.apple.com/app/stash/id1596063349))、[ShadowRocket](https://apps.apple.com/us/app/shadowrocket/id932747118)、[Quantumult（X）](https://apps.apple.com/us/app/quantumult-x/id1443988620)。等等。配置方法大同小异,具体怎么选择因人而异。~~ 
+Clash Verge使用教程：[https://clashxhub.com/clash-verge/](https://clashxhub.com/clash-verge/)
 
+### Clash for Windows （停更）
+Clash for Windows下载地址：[https://github.com/clashdownload/Clash_for_Windows](https://github.com/clashdownload/Clash_for_Windows)
+
+Clash for Windows使用教程：[https://clash4windows.com/](https://clash4windows.com/)
+
+### ClashX （停更）
+ClashX下载地址：[https://github.com/clashdownload/ClashX](https://github.com/clashdownload/ClashX)
+
+ClashX使用教程：[https://clash4mac.com](https://clash4mac.com/)
+
+### ClashX Pro （停更）
+ClashX Pro下载地址：[https://github.com/clashdownload/ClashX_Pro](https://github.com/clashdownload/ClashX_Pro)
+
+ClashX Pro使用教程：[https://clashxhub.com/clashx-pro/](https://clashxhub.com/clashx-pro/)
+
+### Clash for Android （停更）
+Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Android](https://github.com/clashdownload/Clash_for_Android)
+
+Clash for Android使用教程：[https://clash4android.com/](https://clash4android.com/)
+
+## Clash节点推荐 (2025-02)
+
+### 1. 尔湾云机场
+
+#### 尔湾云官网
+
+[尔湾云最新官网](https://erwan9.net/?code=Epm8el)
+
+#### 尔湾云套餐价格
+
+| 尔湾云机场  | 付款周期 | 价格    | 每月流量    | 同时在线数量 |
+|--------|------|-------|---------|--------|
+| 入门版    | 按月付  | 11.99 | 50 GB   | 2      |
+| 基础版    | 按月付  | 16.99 | 100 GB  | 2      |
+| 标准版    | 按月付  | 26.99 | 200 GB  | 3      |
+| 高级版    | 按月付  | 36.99 | 350 GB  | 5      |
+| 旗舰版    | 按月付  | 59.99 | 600 GB  | 8      |
+| 旗舰版Max | 按月付  | 99.99 | 1200 GB | 10     |
+
+### 2. 疾风云
+
+#### 疾风云官网
+
+[疾风云最新官网](https://j166.net/?code=VypN)
+
+#### 疾风云套餐价格
+
+| 疾风云 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
+| --- | --- | --- | --- | --- |
+| 入门版 | 按月付 | 9.90 | 50 GB | 1 |
+| 基础版 | 按月付 | 15.99 | 100 GB | 2 |
+| 标准版 | 按月付 | 25.99 | 200 GB | 3 |
+| 高级版 | 按月付 | 35.99 | 350 GB | 5 |
+| 旗舰版 | 按月付 | 49.99 | 600 GB | 8 |
+| 旗舰版大流量 | 按月付 | 95.99 | 1200 GB | 10 |
