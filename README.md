@@ -1,36 +1,17 @@
 # Clash官网导航(2025最新)
 
-## Clash客户端备份
+## Clash客户端下载及使用指南
 
+| 客户端 | Windows | Mac | Android | 官方仓库 | 备份下载 | 新手教程 |
+| --- | --- | --- | --- | --- | --- | --- |
+| FlClash | ✅ | ✅ | ✅ | [点击前往](https://github.com/chen08209/FlClash/releases) | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/fclash/) |
+| Clash Verge Rev | ✅ | ✅ | ❌ | [点击前往](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-verge-rev/) |
+| Clash Verge （停更） | ✅ | ✅ | ❌ | 已停更 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-verge/) |
+| Clash for Windows （停更） | ✅ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-for-windows/) |
+| ClashX （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clashx-for-mac/) |
+| ClashX Pro （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clashx-pro/) |
+| Clash for Android （停更） | ❌ | ❌ | ✅ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-for-android/) |
 
-### FlClash
-FlClash下载地址：[https://github.com/chen08209/FlClash/releases](https://github.com/chen08209/FlClash/releases)
-
-FlClash使用教程：[https://clashxhub.com/fclash/](https://clashxhub.com/fclash/)
-
-### Clash Verge Rev
-
-Clash Verge Rev下载&使用教程：[https://clashxhub.com/clash-verge-rev/](https://clashxhub.com/clash-verge-rev/)
-
-### Clash Verge （停更）
-
-Clash Verge下载&使用教程：[https://clashxhub.com/clash-verge/](https://clashxhub.com/clash-verge/)
-
-### Clash for Windows （停更）
-
-Clash for Windows下载&使用教程：[https://clash4windows.com/](https://clash4windows.com/)
-
-### ClashX （停更）
-
-ClashX下载&使用教程：[https://clash4mac.com](https://clash4mac.com/)
-
-### ClashX Pro （停更）
-
-ClashX Pro下载&使用教程：[https://clashxhub.com/clashx-pro/](https://clashxhub.com/clashx-pro/)
-
-### Clash for Android （停更）
-
-Clash for Android下载&使用教程：[https://clash4android.com/](https://clash4android.com/)
 
 ## Clash节点推荐 (2025-02)
 
