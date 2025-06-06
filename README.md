@@ -4,13 +4,13 @@
 
 | 客户端 | Windows | Mac | Android | 官方仓库 | 备份下载 | 新手教程 |
 | --- | --- | --- | --- | --- | --- | --- |
-| FlClash | ✅ | ✅ | ✅ | [点击前往](https://github.com/chen08209/FlClash/releases) | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/fclash/) |
-| Clash Verge Rev | ✅ | ✅ | ❌ | [点击前往](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-verge-rev/) |
-| Clash Verge （停更） | ✅ | ✅ | ❌ | 已停更 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-verge/) |
-| Clash for Windows （停更） | ✅ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-for-windows/) |
-| ClashX （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clashx-for-mac/) |
-| ClashX Pro （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clashx-pro/) |
-| Clash for Android （停更） | ❌ | ❌ | ✅ | 已删除 | [下载中心](https://clashxhub.com/clash-backup-download/) | [前往](https://clashxhub.com/clash-for-android/) |
+| FlClash | ✅ | ✅ | ✅ | [点击前往](https://github.com/chen08209/FlClash/releases) | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/fclash/) |
+| Clash Verge Rev | ✅ | ✅ | ❌ | [点击前往](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-verge-rev/) |
+| Clash Verge （停更） | ✅ | ✅ | ❌ | 已停更 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-verge/) |
+| Clash for Windows （停更） | ✅ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-for-windows/) |
+| ClashX （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clashx-for-mac/) |
+| ClashX Pro （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clashx-pro/) |
+| Clash for Android （停更） | ❌ | ❌ | ✅ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-for-android/) |
 
 
 ## Clash节点推荐 (2025-02)
