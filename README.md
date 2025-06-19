@@ -19,7 +19,7 @@ Clash 的 GUI 图形客户端由不同开发者适配多个操作系统，因此
 - 另一选择：**Clash Verge（Mac 版）**，功能强大，界面现代
 
 ### 🤖 Clash for Android
-- 客户端名称为 **Clash**
+- 客户端名称为 **Clash for Android**
 - 支持复制或粘贴订阅链接一键导入
 - ✅ 推荐替代：
   - **Clash Meta for Android**
