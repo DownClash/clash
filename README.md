@@ -1,50 +1,89 @@
-# Clash官网导航(2025最新)
+# Clash 客户端导航与下载指南（含各版本地址）
 
-## Clash客户端下载及使用指南
+**Clash** 是一款基于 Go 语言开发的规则分流代理工具，支持智能策略分流，是当前各大翻墙机场适配最广的客户端之一。  
+虽然原始项目已被删除（GitHub 仓库失效），但多个分支项目仍在活跃维护，特别是以 **Clash Meta** 为核心的客户端，推荐优先使用。
 
-| 客户端 | Windows | Mac | Android | 官方仓库 | 备份下载 | 新手教程 |
-| --- | --- | --- | --- | --- | --- | --- |
-| FlClash | ✅ | ✅ | ✅ | [点击前往](https://github.com/chen08209/FlClash/releases) | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/fclash/) |
-| Clash Verge Rev | ✅ | ✅ | ❌ | [点击前往](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-verge-rev/) |
-| Clash Verge （停更） | ✅ | ✅ | ❌ | 已停更 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-verge/) |
-| Clash for Windows （停更） | ✅ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-for-windows/) |
-| ClashX （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clashx-for-mac/) |
-| ClashX Pro （停更） | ❌ | ✅ | ❌ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clashx-pro/) |
-| Clash for Android （停更） | ❌ | ❌ | ✅ | 已删除 | [下载中心](https://clashkit.com/clash-backup-download/) | [前往](https://clashkit.com/clash-for-android/) |
+---
 
+## 💻 Clash 客户端平台概览
 
-## Clash节点推荐 (2025-02)
+Clash 的 GUI 图形客户端由不同开发者适配多个操作系统，因此名称和使用体验略有差异：
 
-### 1. 尔湾云机场
+### 🪟 Clash for Windows
+- 最受欢迎的 Windows 翻墙客户端
+- 原版无中文界面，但有第三方汉化版
+- ✅ 推荐使用：**Clash Verge（基于 Meta 内核，活跃更新）**
 
-#### 尔湾云官网
+### 🍎 Clash for macOS
+- 主流客户端：**ClashX**
+- 另一选择：**Clash Verge（Mac 版）**，功能强大，界面现代
 
-[尔湾云最新官网](https://erwan9.net/?code=Epm8el)
+### 🤖 Clash for Android
+- 客户端名称为 **Clash**
+- 支持复制或粘贴订阅链接一键导入
+- ✅ 推荐替代：
+  - **Clash Meta for Android**
+  - **Surfboard（冲浪板）**
 
-#### 尔湾云套餐价格
+### 📱 Clash for iOS
+- 对应客户端：**Stash**（付费软件）
+- 需使用非中国区 Apple ID 下载
+- 替代选择：**sing-box GUI 客户端（支持 iOS）**
 
-| 尔湾云机场  | 付款周期 | 价格    | 每月流量    | 同时在线数量 |
-|--------|------|-------|---------|--------|
-| 入门版    | 按月付  | 11.99 | 50 GB   | 2      |
-| 基础版    | 按月付  | 16.99 | 100 GB  | 2      |
-| 标准版    | 按月付  | 26.99 | 200 GB  | 3      |
-| 高级版    | 按月付  | 36.99 | 350 GB  | 5      |
-| 旗舰版    | 按月付  | 59.99 | 600 GB  | 8      |
-| 旗舰版Max | 按月付  | 99.99 | 1200 GB | 10     |
+---
 
-### 2. 疾风云
+## 📥 各平台下载地址导航
 
-#### 疾风云官网
+> ⚠️ 由于 Clash 核心已删库，部分官网链接可能已失效，建议使用下方推荐的替代版本或第三方导航站点。
 
-[疾风云最新官网](https://j166.net/?code=VypN)
+### ✅ 官方/第三方下载地址：
 
-#### 疾风云套餐价格
+- [Clash for Windows 官网](#)
+- [Clash Verge 官网](#) （推荐）
+- [ClashX for Mac 官网](#)
+- [Clash for Android 官网](#)
+- [Clash Meta for Android 官网](#)
+- [Surfboard 官网](#)
+- [Stash（iOS App Store）](#)
+- [sing-box 官网](#)
 
-| 疾风云 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
-| --- | --- | --- | --- | --- |
-| 入门版 | 按月付 | 9.90 | 50 GB | 1 |
-| 基础版 | 按月付 | 15.99 | 100 GB | 2 |
-| 标准版 | 按月付 | 25.99 | 200 GB | 3 |
-| 高级版 | 按月付 | 35.99 | 350 GB | 5 |
-| 旗舰版 | 按月付 | 49.99 | 600 GB | 8 |
-| 旗舰版大流量 | 按月付 | 95.99 | 1200 GB | 10 |
+### 🌐 第三方导航站：
+
+- [Clash for Windows 下载站](https://clashxhub.com/clash-windows/)
+- [ClashX Mac 导航](https://clashxhub.com/clash-mac-2/)
+- [Clash Android 导航](https://clashxhub.com/clash-android/)
+
+---
+
+## 📚 使用教程汇总
+
+- [Clash for Windows 使用教程](https://clashxhub.com/clash-for-windows/)
+- [ClashX for Mac 使用教程](https://clashxhub.com/clashx-for-mac/)
+- [Clash for Android 使用教程](https://clashxhub.com/clash-for-android/)
+- [Clash for iOS 使用教程](https://clashxhub.com/shadowrocket-for-ios/)
+
+---
+
+## 🚀 推荐替代方案
+
+| 客户端名称        | 支持平台           | 特点说明                     |
+|------------------|--------------------|------------------------------|
+| **Clash Verge**  | Windows / macOS    | 支持 Meta 内核，持续维护     |
+| **Clash Meta**   | Android            | 活跃更新，功能完整           |
+| **Surfboard**    | Android / iOS      | 界面现代，使用便捷           |
+| **sing-box GUI** | iOS / Android / macOS | 新一代客户端，未来可期     |
+
+---
+
+## 📡 更多资源推荐
+
+- [🚀 2025 最新稳定机场推荐](https://clashxhub.com/node-subscribe-recommend/)
+
+---
+
+## ⚠️ 安全提醒
+
+请务必避免通过搜索引擎（尤其是 **必应**）点击来路不明的网站，警惕假冒 Clash 官网、钓鱼站和病毒下载链接。  
+建议通过本站或 GitHub、Telegram 群等可信渠道获取软件。
+
+> 📌 **声明：本站成立于2023年,并非 Clash 官方站点，仅用于提供 Clash 使用教程、客户端资源导航及机场节点推荐。**
