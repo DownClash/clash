@@ -38,14 +38,11 @@ Clash 的 GUI 图形客户端由不同开发者适配多个操作系统，因此
 
 ### ✅ 官方/第三方下载地址：
 
-- [Clash for Windows 官网](#)
-- [Clash Verge 官网](#) （推荐）
-- [ClashX for Mac 官网](#)
-- [Clash for Android 官网](#)
-- [Clash Meta for Android 官网](#)
-- [Surfboard 官网](#)
-- [Stash（iOS App Store）](#)
-- [sing-box 官网](#)
+- [Clash for Windows 官网](https://clashxhub.com/clash-windows/)
+- [Clash Verge 官网](https://clashxhub.com/clash-verge/) （推荐）
+- [ClashX for Mac 官网](https://clashxhub.com/clashx-for-mac/)
+- [Clash for Android 官网](https://clashxhub.com/clash-for-android/)
+- [Clash Meta for Android 官网](https://clashxhub.com/clash-meta-for-android/)
 
 ### 🌐 第三方导航站：
 
